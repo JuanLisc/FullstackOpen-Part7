@@ -1,0 +1,15 @@
+{
+  "notes": [
+    {
+      "content": "A NEW NOTE",
+      "id": 1
+    }
+  ],
+  "persons": [
+    {
+      "name": "Juan Lischetti",
+      "number": "123-456-789",
+      "id": 1
+    }
+  ]
+}
